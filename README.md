@@ -62,3 +62,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <img width="1431" alt="order on app" src="https://user-images.githubusercontent.com/94776104/203161623-8c4475af-b0db-4bd6-b5cf-cc5279fdf1cb.png">
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+## Author 
+Jielin Wang 
+
+## Lisence
+MIT 
